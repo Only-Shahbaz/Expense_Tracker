@@ -5,5 +5,12 @@
     "category": "food",
     "description": "dinner with frineds",
     "date": "2026-08-18"
+  },
+  {
+    "id": "a7834950",
+    "amount": 12000.0,
+    "category": "shopping",
+    "description": "Buy shoes",
+    "date": "2026-11-05"
   }
 ]
